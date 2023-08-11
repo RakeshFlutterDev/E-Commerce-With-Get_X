@@ -1,4 +1,4 @@
-
+/*
 import 'package:e_commerce_get_x/model/color_model.dart';
 import 'package:e_commerce_get_x/util/dimensions.dart';
 import 'package:e_commerce_get_x/util/images.dart';
@@ -183,4 +183,4 @@ class _VisualizationScreenState extends State<VisualizationScreen> {
       )
     ],
   );
-}
+}*/
